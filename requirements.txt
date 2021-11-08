@@ -1,0 +1,9 @@
+# Base requirements
+numpy>=1.20.3
+pandas
+scipy
+
+# Graphics for jupyter notebooks (ipympl is required)
+matplotlib
+ipykernel
+ipympl
